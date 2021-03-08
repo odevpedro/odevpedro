@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, Eu me chamo Ruan Pedro</h1>
+<h1 align="center">Olá 🖖, sou Ruan Pedro</h1>
 <h3 align="center">Desenvolvedor Back-End | Entusiasta em Cyber Security e Linux | Futuro cientista da computação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odevpedro&label=Profile%20views&color=0e75b6&style=flat" alt="odevpedro" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Framework & Network Protocols**
+- 🌱 Atualmente tenho estudado **Java, Spring Framework & Network Protocols**
 
 - 🤝 I’m looking for help with [Improve my English Skills](pedroxc)
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/odevpedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="odevpedro" height="30" width="40" /></a>
 <a href="https://instagram.com/@dev_pedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@dev_pedro" height="30" width="40" /></a>
 </p>
 
