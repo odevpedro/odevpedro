@@ -39,7 +39,7 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
 <br>
 <h1>Futuramente Escreverei alguns resumos em:<h1>
   
-  https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+  [!asdf](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
   
 
 
