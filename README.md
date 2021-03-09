@@ -12,7 +12,7 @@
 - ⚡ Um pouco sobre mim: **O incentivo ao avanço tecnológico, assim como a consulta aos diversos militantes obstaculiza a apreciação da importância do orçamento setorial.**
 
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=odevpedro&hide=contribs,prs)
 
