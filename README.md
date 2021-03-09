@@ -11,6 +11,11 @@
 
 - ⚡ Um pouco sobre mim: **O incentivo ao avanço tecnológico, assim como a consulta aos diversos militantes obstaculiza a apreciação da importância do orçamento setorial.**
 
+
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/odevpedro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="odevpedro" height="30" width="40" /></a>
