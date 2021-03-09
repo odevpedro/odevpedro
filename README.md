@@ -16,6 +16,9 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&Link=https:t.me/schmidtpedro)](https://t.me/schmidtpedro)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://instagram.com/dev_pedro)](https://instagram.com/dev_pedro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/ruan-p-186968191/)](https://www.linkedin.com/in/ruan-p-186968191/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
 
 
 <h1>Tecnologias:<h1>
@@ -34,6 +37,10 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 <br>
+<h1>Futuramente Escreverei alguns resumos em:<h1>
+  
+  https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+  
 
 
 
