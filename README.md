@@ -43,7 +43,7 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
   ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
   
   <h1>Alguns resumos e Estudos sobre programação:</h1>
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4aaeb67f-44ec-4884-a620-bc9854c88271/notion-wordmark.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210309%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210309T175825Z&X-Amz-Expires=86400&X-Amz-Signature=96a5d5765031df546549ab6c610eb369c4004da17a2fc7f8f7be690510392eaf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22notion-wordmark.png%22" alt="Girl in a jacket" width="500" height="600">
+  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4aaeb67f-44ec-4884-a620-bc9854c88271/notion-wordmark.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210309%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210309T175825Z&X-Amz-Expires=86400&X-Amz-Signature=96a5d5765031df546549ab6c610eb369c4004da17a2fc7f8f7be690510392eaf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22notion-wordmark.png%22" alt="Girl in a jacket" width="20" height="15">
 
 
 
