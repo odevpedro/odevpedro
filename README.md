@@ -14,7 +14,7 @@
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=odevpedro&hide=contribs,prs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
