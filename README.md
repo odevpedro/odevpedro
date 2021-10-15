@@ -3,7 +3,7 @@
 
 <h3>👨‍💻 Back-End Developer | 🐧 Entusiasta em Sistemas Linux </h3>  
 
-Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em momentos diversos. Acontece que sempre fui interessado em entender como as coisas funcionavam e a tangibilidade oferecida pela tecnologia(através do meu primeiro computador para ser mais exato) supriu essa minha necessidade. Fiz um curso técnico de informática com duração de dois anos(2015-2017) que me deu um "norte" sobre o mercado de trabalho. Conheci o mercado de certificações e como são preparados os profissionais em cada área dentro deste grande universo da TI. A partir desse momento fiz o possivel para pautar os meus conhecimentos de acordo com as exgências e competências esperdas das certficações como: CompTIA A+ | Network + | LPI C-1 | SANS E ETC
+Atualmente tenho me especializado na linguagem java, arquitetura de micro-services e os principais padrões de projeto utilizados atualmente pelo mercado.
 <br><br>
 ![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
