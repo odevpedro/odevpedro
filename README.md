@@ -16,7 +16,6 @@ Atualmente tenho me especializado na linguagem java, arquitetura de micro-servic
 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&Link=https:t.me/schmidtpedro)](https://t.me/schmidtpedro)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://instagram.com/dev_pedro)](https://instagram.com/dev_pedro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/ruan-p-186968191/)](https://www.linkedin.com/in/ruan-p-186968191/)
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
