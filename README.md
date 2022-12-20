@@ -1,7 +1,7 @@
 # Ruan Pedro
 
 
-<h3>👨‍💻 Back-End Developer | AWS Certified Cloud Particioner | 🐧 Entusiasta em Sistemas Linux </h3>
+<h3>👨‍💻 Back-End Developer | ☁️ AWS Certified Cloud Particioner | 🐧 Entusiasta em Sistemas Linux </h3>
 
 Atualmente tenho me especializado na linguagem java, arquitetura de micro-services e os principais padrões de projeto utilizados pelo mercado.
 
