@@ -34,7 +34,9 @@
 [![Omid Nikrah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=odevpedro&theme=dracula)](https://github.com/odevpedro)
 
 
-![GitHub 3D Contributions](https://raw.githubusercontent.com/odevpedro/odevpedro/main/profile-3d-contrib/profile-night-rainbow.svg)
+## 📊 GitHub Profile Overview
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odevpedro&theme=github_dark)
 
 # Tools frequently used at work:
 
