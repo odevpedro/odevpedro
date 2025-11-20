@@ -30,6 +30,12 @@
 
 ---
 
+## 🔥 Contribution Graph
+[![Omid Nikrah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=odevpedro&theme=dracula)](https://github.com/odevpedro)
+
+
+![GitHub 3D Contributions](https://raw.githubusercontent.com/odevpedro/odevpedro/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 # Tools frequently used at work:
 
 ![JavaScript Badge](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,docker,git,kubernetes,maven,gradle,postman,aws,linux,redis,mysql,gherkin,grafana,prometheus&theme=light)
