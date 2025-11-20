@@ -30,9 +30,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-[![Omid Nikrah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=odevpedro&theme=dracula)](https://github.com/odevpedro)
-
 
 ## 📊 GitHub Profile Overview
 
