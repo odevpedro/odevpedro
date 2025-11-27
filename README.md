@@ -1,18 +1,19 @@
 # Ruan Pedro
 
-**👨‍💻 Back-End Developer | ☁️ AWS Certified Cloud Practitioner | 🐧 Linux Systems Enthusiast**
+**Full-Stack Developer | AWS Certified Cloud Practitioner | Linux Systems Enthusiast**
 
-![Welcome GIF](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+![something](https://www.dabeaz.com/images/sicp1.jpg)
 
 **📍 Location:** Rio de Janeiro  
-**📚 Course:** Analysis and Systems Development - 2nd period
+**📚 Course:** Analysis and Systems Development - 3nd period
 
 ---
 
 **🌟 Interests:**
-- Pursuing AWS Solution Architect certification
-- Exploring Object-oriented programming
-- Passionate about Debugging
+- Retro games such as emulators
+- Binge-read Manga
+- Passionate about Functional Programing
 - Delving into Algorithms and data structures
 
 ---
@@ -24,11 +25,6 @@
 
 ---
 
-**📖 Current Studies:**
-- Exploring Functional programming
-- Learning the JS stack
-
----
 
 
 ## 📊 GitHub Profile Overview
@@ -38,12 +34,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=odevpedro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
-# Tools frequently used at work:
+# Tools & technologies that I commonly use at work:
 
-![JavaScript Badge](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,docker,git,kubernetes,maven,gradle,postman,aws,linux,redis,mysql,gherkin,grafana,prometheus&theme=light)
+![JavaScript Badge](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,docker,azure,aws,git,kubernetes,maven,gradle,postman,redis,mysql,gherkin,grafana,prometheus&theme=light)
 
 ---
 
 # Tools that I'm learning & using in side-projects, mainly JS-stack:
 
-![Notion Logo](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,typescript,javascript,html,css,webpack,vscode,docker,jest,git,gulp,babel,npm,yarn&theme=light)
+![Notion Logo](https://skillicons.dev/icons?i=c,nodejs,express,mongodb,react,redux,typescript,javascript,html,css,webpack,vscode,docker,jest,git,gulp,babel,npm,yarn&theme=light)
