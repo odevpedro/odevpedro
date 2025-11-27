@@ -35,6 +35,9 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odevpedro&theme=github_dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=odevpedro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+
 # Tools frequently used at work:
 
 ![JavaScript Badge](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,docker,git,kubernetes,maven,gradle,postman,aws,linux,redis,mysql,gherkin,grafana,prometheus&theme=light)
