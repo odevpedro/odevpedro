@@ -8,55 +8,41 @@ Atuo no desenvolvimento e evolução de aplicações corporativas e financeiras,
 
 ## Projetos em destaque
 
-### [Digital Onboarding](https://github.com/odevpedro/digital-onboarding)
+### Ecossistema de Arquitetura Bancária
 
-Simulação de abertura de conta digital PF/PJ construída como monólito modular.
+Conjunto integrado de projetos que simula uma plataforma bancária para abertura de conta, validações regulatórias e recursos compartilhados entre aplicações.
 
-`Java` · `Spring Boot` · `Angular` · `PostgreSQL` · `RabbitMQ` · `MinIO` · `Outbox Pattern` · `Idempotência` · `State Machine` · `Prometheus` · `Grafana`
+* [Digital Onboarding](https://github.com/odevpedro/digital-onboarding) — fluxo de abertura de conta PF/PJ com máquina de estados, documentos, compliance, risco e mensageria.
+* [Banking Foundation](https://github.com/odevpedro/banking-foundation) — Spring Boot Starter para segurança, auditoria, idempotência, Outbox Pattern e observabilidade.
+* [Núcleo de Validação](https://github.com/odevpedro/nucleo-validacao) — gateway Java para execução de validações bancárias implementadas em Oracle PL/SQL.
 
-### [Banking Foundation](https://github.com/odevpedro/banking-foundation)
+`Java` · `Spring Boot` · `Angular` · `Oracle` · `PostgreSQL` · `PL/SQL` · `RabbitMQ` · `Outbox Pattern` · `Idempotência` · `Testcontainers`
 
-Spring Boot Starter multi-módulo para centralizar recursos compartilhados entre aplicações corporativas.
+---
 
-`Correlation ID` · `JWT` · `RBAC` · `Auditoria` · `Idempotência` · `Outbox` · `Observabilidade` · `Auto-configuração`
+### [ICO Reconstruction](https://github.com/odevpedro/ico-reconstruction)
 
-### [Núcleo de Validação](https://github.com/odevpedro/nucleo-validacao)
+Projeto de engenharia reversa e reconstrução progressiva de **ICO para PlayStation 2**, envolvendo análise de ELF, código MIPS, estruturas internas, formatos proprietários e comportamento em tempo de execução.
 
-Gateway para execução de grupos de validações bancárias implementadas em Oracle PL/SQL.
+O projeto inclui ferramentas próprias para inspeção de executáveis, identificação de funções, geração de call graphs, validação de assembly e documentação dos subsistemas do jogo.
 
-`Java 21` · `Spring Boot` · `Oracle 23c` · `PL/SQL` · `CallableStatement` · `REQUIRES_NEW` · `Testcontainers`
+`C` · `Python` · `MIPS` · `Ghidra` · `PCSX2` · `ELF Analysis` · `Reverse Engineering` · `Static Analysis` · `Runtime Instrumentation`
+
+---
 
 ### CertiFlow — em desenvolvimento
 
-Plataforma SaaS multi-tenant para gestão de fornecedores, documentos, conformidade e vencimentos, executada localmente com LocalStack.
+Plataforma SaaS multi-tenant para gestão de fornecedores, documentos obrigatórios, conformidade, aprovações e vencimentos.
 
-`Quarkus` · `Angular` · `Lambda` · `API Gateway` · `DynamoDB` · `S3` · `EventBridge` · `SQS` · `Step Functions` · `Terraform` · `LocalStack`
+A aplicação utiliza serviços AWS executados localmente com **LocalStack**, permitindo desenvolver e testar toda a arquitetura sem depender de uma conta AWS real.
+
+`Java 21` · `Quarkus` · `Angular` · `AWS Lambda` · `API Gateway` · `DynamoDB` · `S3` · `EventBridge` · `SQS` · `Step Functions` · `Terraform` · `LocalStack`
 
 ---
 
 ## Especialidades
 
-* Java e Spring Boot
-* Sistemas distribuídos e arquitetura orientada a eventos
-* Monólitos modulares e microsserviços
-* Kafka, RabbitMQ e SQS
-* PostgreSQL, Oracle, Redis e DynamoDB
-* AWS, Azure, Docker e Terraform
-* Testes automatizados e Testcontainers
-* Observabilidade com Prometheus e Grafana
-
----
-
-## Princípios de engenharia
-
-Busco construir sistemas que sejam:
-
-* fáceis de manter;
-* observáveis;
-* resilientes a falhas;
-* seguros para reprocessamento;
-* explícitos em suas regras e estados;
-* tecnicamente adequados ao problema.
+`Java` · `Spring Boot` · `Quarkus` · `Microsserviços` · `Monólitos Modulares` · `Kafka` · `RabbitMQ` · `AWS` · `Azure` · `Oracle` · `PostgreSQL` · `Docker` · `Terraform` · `Testcontainers` · `Prometheus` · `Grafana`
 
 ---
 
