@@ -1,56 +1,166 @@
-# Ruan Pedro
-**Backend Engineer · AWS Certified Cloud Practitioner · Linux Enthusiast**
+# Pedro Schmidt
 
-Backend-focused engineer with hands-on experience designing and building distributed systems in Java and Spring Boot. Comfortable across the full lifecycle of backend services — from API design and authentication flows to event-driven architectures, resilience patterns, and observability. Currently deepening expertise in scalability, domain-driven design, and the tradeoffs that come with microservices at scale.
+**Desenvolvedor Back-End especializado em Java, Spring Boot, sistemas distribuídos e arquitetura cloud.**
 
-![SICP](https://www.dabeaz.com/images/sicp1.jpg)
+Atuo no desenvolvimento e evolução de aplicações corporativas, com foco em manutenibilidade, integração, consistência, observabilidade e tratamento de falhas.
 
-📍 Rio de Janeiro · 📚 Analysis and Systems Development
-
----
-
-## What I'm building
-
-> Projects focused on real-world backend challenges: distributed tracing, async messaging, auth flows, and resilient service communication across microservices boundaries.
-
-- **Microservices architecture** — Spring Boot services with inter-service communication via REST and messaging brokers
-- **Event-driven systems** — Kafka and RabbitMQ for async workflows and decoupled service boundaries
-- **Auth & security** — JWT, OAuth2, and role-based access control patterns
-- **Observability stack** — Prometheus, Grafana, structured logging and distributed tracing
+Minha experiência está concentrada em sistemas financeiros e empresariais, envolvendo monólitos modulares, microsserviços, mensageria, bancos relacionais, integrações com sistemas legados e ambientes cloud.
 
 ---
 
-## Current Focus
+## Projetos em destaque
 
-- Domain-Driven Design applied to real service boundaries
-- Resilience patterns: circuit breakers, retries, bulkheads
-- Observability: from logs to traces to actionable dashboards
-- Design patterns that actually solve problems, not just name them
+### [Digital Onboarding](https://github.com/odevpedro/digital-onboarding)
 
----
+Monólito modular que simula um processo completo de abertura de conta digital para pessoas físicas e jurídicas.
 
-## Interests
+Principais aspectos explorados:
 
-- Functional programming and what it means for how we model state
-- Algorithms and data structures beyond the interview context
-- Retro games, emulators, and the engineering behind them
-- Manga — heavily
-
----
-
-## GitHub
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odevpedro&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=odevpedro&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+* Máquina de estados explícita para o fluxo de onboarding
+* Outbox Pattern transacional
+* Operações idempotentes
+* Mensageria com RabbitMQ
+* PostgreSQL e Flyway
+* Armazenamento de documentos com MinIO
+* Métricas com Prometheus e Grafana
+* Testes de integração com Testcontainers
+* Integração com bibliotecas bancárias reutilizáveis
 
 ---
 
-## Production Stack
+### [Banking Foundation](https://github.com/odevpedro/banking-foundation)
 
-![Stack](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,docker,azure,aws,git,kubernetes,maven,gradle,postman,redis,mysql,gherkin,grafana,prometheus&theme=light)
+Spring Boot Starter multi-módulo criado para centralizar preocupações transversais comuns em aplicações corporativas.
+
+O projeto fornece:
+
+* Propagação de Correlation ID
+* Tratamento padronizado de erros
+* Autenticação JWT e RBAC
+* Suporte a auditoria
+* Idempotência
+* Abstrações para Outbox Pattern
+* Métricas e observabilidade
+* Auto-configuração condicional do Spring Boot
+* Suporte de testes para aplicações consumidoras
 
 ---
 
-## Exploring & Side Projects
+### [Núcleo de Validação](https://github.com/odevpedro/nucleo-validacao)
 
-![Learning](https://skillicons.dev/icons?i=c,nodejs,express,mongodb,react,redux,typescript,javascript,html,css,webpack,vscode,docker,jest,git,gulp,babel,npm,yarn&theme=light)
+Gateway genérico para execução de grupos de validações bancárias implementadas por meio de procedures Oracle PL/SQL.
+
+O projeto aborda:
+
+* Integração entre Java e PL/SQL
+* Execução dinâmica de procedures com `CallableStatement`
+* Configuração declarativa de validações em YAML
+* Auditoria independente com `REQUIRES_NEW`
+* Separação entre falha técnica e reprovação de negócio
+* Permissões e grants no Oracle
+* Testes com Oracle Database Free e Testcontainers
+
+---
+
+### CertiFlow — em desenvolvimento
+
+Plataforma SaaS multi-tenant para gestão de fornecedores, documentos obrigatórios, conformidade e vencimentos.
+
+A arquitetura está sendo desenvolvida localmente com LocalStack e inclui:
+
+* AWS Lambda
+* API Gateway
+* DynamoDB
+* S3
+* EventBridge
+* SQS e DLQs
+* Step Functions
+* Cognito
+* Terraform
+* Workflows orientados a eventos
+* Isolamento multi-tenant
+* Consumidores idempotentes
+* Auditoria e observabilidade
+
+---
+
+## Áreas de interesse
+
+Tenho interesse especial em:
+
+* Monólitos modulares e sistemas distribuídos
+* Modelagem de domínio e workflows explícitos
+* Arquitetura orientada a eventos
+* Consistência transacional
+* Idempotência e deduplicação de mensagens
+* Retries, timeouts e recuperação de falhas
+* Observabilidade e diagnóstico em produção
+* Performance de banco de dados
+* Modernização de sistemas legados
+* Bibliotecas internas e engenharia de plataforma
+* AWS e infraestrutura como código
+
+---
+
+## Como penso sobre arquitetura
+
+Procuro evitar decisões baseadas apenas em tendências ou popularidade de tecnologias.
+
+Meus projetos são guiados por perguntas como:
+
+* Qual problema este padrão realmente resolve?
+* O que acontece quando uma dependência fica indisponível?
+* Como mensagens duplicadas são tratadas?
+* Uma operação pode ser repetida com segurança?
+* Como o sistema será observado e diagnosticado?
+* Qual é o custo operacional desta decisão?
+* Quando um monólito modular é mais adequado que microsserviços?
+* Como evoluir o sistema sem quebrar seus consumidores?
+
+---
+
+## Stack principal
+
+### Back-End
+
+`Java` · `Spring Boot` · `Quarkus` · `JPA` · `Hibernate` · `PL/SQL`
+
+### Mensageria e sistemas distribuídos
+
+`Kafka` · `RabbitMQ` · `SQS` · `EventBridge`
+
+### Bancos de dados
+
+`PostgreSQL` · `Oracle` · `MySQL` · `MongoDB` · `Redis` · `DynamoDB`
+
+### Cloud e infraestrutura
+
+`AWS` · `Azure` · `Docker` · `Terraform` · `LocalStack` · `GitHub Actions`
+
+### Testes e observabilidade
+
+`JUnit` · `Mockito` · `Testcontainers` · `RestAssured` · `Prometheus` · `Grafana` · `OpenTelemetry`
+
+---
+
+## Escrita técnica
+
+Escrevo sobre decisões, erros, investigações e trade-offs encontrados durante a construção de sistemas back-end.
+
+Principais temas:
+
+* Arquitetura sem hype
+* Java e Spring Boot
+* Sistemas distribuídos
+* Bancos de dados e transações
+* AWS e LocalStack
+* Observabilidade
+* Integração com sistemas legados
+* Aprendizados obtidos em projetos pessoais
+
+---
+
+## Contato
+
+* GitHub: [@odevpedro](https://github.com/odevpedro)
+* E-mail: [pedrosschmidt2@gmail.com](mailto:pedrosschmidt2@gmail.com)
