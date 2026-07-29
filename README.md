@@ -1,4 +1,4 @@
-# Pedro Schmidt
+# Ruan Pedro
 
 **Desenvolvedor Back-End com foco em Java, Spring Boot, sistemas distribuídos e arquitetura cloud.**
 
